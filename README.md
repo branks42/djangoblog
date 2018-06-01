@@ -1,2 +1,2 @@
 # djangoblog
-Basic Blog App using Django
+Blog App using Django, more info to come.
