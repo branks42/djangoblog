@@ -1,4 +1,4 @@
 from django.apps import AppConfig
-# Apps go here
+# Apps here
 class PostsConfig(AppConfig):
     name = 'posts'
